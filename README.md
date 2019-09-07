@@ -30,7 +30,7 @@ Desarrollar un método que permita estimar las condiciones atmosféricas con ant
 
 ## Authors
 
-Roberto Munoz
-Roberto Gonzalez
-Pedro Fluxa
-Joaquin Prieto
+-Roberto Munoz
+-Roberto Gonzalez
+-Pedro Fluxa
+-Joaquin Prieto
